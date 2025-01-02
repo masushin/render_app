@@ -2,7 +2,7 @@ from nicegui import ui
 
 
 def main():
-    ui.label("Hello, world!")
+    ui.label("Hello, world2!")
 
 
 main()
